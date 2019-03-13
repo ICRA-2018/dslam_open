@@ -1,0 +1,12 @@
+name: objectattention
+
+base:
+  ubuntu: 16.04
+  ros: kinetic-ros-base
+
+repo:
+  - ppa:xqms/opencv-nonfree
+
+apt:
+  - python-catkin-tools python-vcstool libopencv-nonfree-dev autoconf libglew-dev
+
