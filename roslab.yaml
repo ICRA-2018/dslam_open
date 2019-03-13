@@ -1,4 +1,4 @@
-name: objectattention
+name: dslam-open
 
 base:
   ubuntu: 16.04
